@@ -1,0 +1,2 @@
+# PoshMailgun
+Powershell Mailgun module
